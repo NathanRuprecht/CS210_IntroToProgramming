@@ -1,0 +1,7 @@
+101:Troy Weingart:Troy.Weingart@usafa.edu:salaried:140000:0
+102:Randy Bower:Randy.Bower@usafa.edu:hourly:55:0
+103:Kevin Owens:Kevin.Owens@usafa.edu:salaried:120000:0
+104:David Caswell:David.Caswell@usafa.edu:commissioned:90000:0.2
+105:Wayne Brown:Wayne.Brown@usafa.edu:commissioned:85000:0.25
+106:Del Christman:Delbert.Christman@usafa.edu:salaried:154000:0
+107:Jeremy Noel:Jeremy.Noel@usafa.edu:hourly:99:0

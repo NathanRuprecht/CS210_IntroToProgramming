@@ -1,0 +1,5 @@
+This project is adapted from slides 87-89 of
+
+  http://mcsp.wartburg.edu/zelle/python/sigcse-slides.pdf
+
+by John Zelle, Wartburg College

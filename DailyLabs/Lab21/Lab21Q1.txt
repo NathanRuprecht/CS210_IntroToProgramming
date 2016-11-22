@@ -1,0 +1,23 @@
+__E__  OOP
+
+__G__  object
+
+__C__  state
+
+__I__  instantiate
+
+__H__  method
+
+__D__  attribute(field)
+
+__B__  constructor
+
+__J__  self
+
+__A__  mutator(setter)method
+
+__F__  accessor(getter)method
+
+__K__  instance
+
+__L__ override

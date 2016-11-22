@@ -1,0 +1,31 @@
+Exercises:
+
+1. Have the transmitter ask for the user's name when it first starts and
+   then use that name to format messages as, "TFred says: Yabba dabba do!"
+
+2. When a transmitter sends a message with a "B" prefix, it should shut down.
+
+3. When a listener receives the message "shutdown", it should shut down.
+
+4. When there are no more transmitters, the server should shut down all of the
+   listeners and then shut itself down.
+   a. This will require the server to keep track of each transmitter which in
+      turn requires each transmitter use a unique name.
+   b. The server will need to notify each listener with the "shutdown" message.
+   c. Be sure to close all sockets on both ends!
+
+5. Add a try/except in the server to gracefully deal with (i.e., not crash)
+   the situation of a listener closing its connection. Ideally, remove the
+   closed listener connection from the list of listeners as well.
+
+Challenge Exercises:
+
+1. What happens if a transmitter sends more than 1024 bytes?
+
+2. What happens if a transmitter sends a character that cannot be encoded?
+
+________________________________
+Randy Bower, Ph.D.
+Coleman-Richardson Chair, DFCS
+United States Air Force Academy
+
