@@ -1,0 +1,11 @@
+Blake, Daphne;2;Daphne_Blake.png
+Dinkley, Velma;2;Velma_Dinkley.png
+Flintstone, Dino;1;Dino_Flintstone.png
+Flintstone, Fred;0;Fred_Flintstone.png
+Flintstone, Pebbles;0;Pebbles_Flintstone.png
+Flintstone, Wilma;0;Wilma_Flintstone.png
+Jones, Fred;0;Fred_Jones.png
+Rogers, Norville;0;Norville_Rogers.png
+Rubble, BammBamm;0;BammBamm_Rubble.png
+Rubble, Barney;1;Barney_Rubble.png
+Rubble, Betty;0;Betty_Rubble.png

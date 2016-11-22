@@ -1,0 +1,4 @@
+Flintstone, Fred;6;Fred_Flintstone.png
+Flintstone, Wilma;12;Wilma_Flintstone.png
+Rubble, Barney;21;Barney_Rubble.png
+Rubble, Betty;14;Betty_Rubble.png
