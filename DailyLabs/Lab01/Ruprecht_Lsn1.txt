@@ -1,0 +1,64 @@
+LAB01
+
+1. print("Hello, world!")
+-Done
+
+
+
+2. The other file I saved.
+-Done
+
+
+
+3. Alt+p gets previous
+   Alt+n gets next
+-Done
+
+
+
+4. >>> help(print)
+Help on built-in function print in module builtins:
+
+print(...)
+    print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False)
+    
+    Prints the values to a stream, or to sys.stdout by default.
+    Optional keyword arguments:
+    file:  a file-like object (stream); defaults to the current sys.stdout.
+    sep:   string inserted between values, default a space.
+    end:   string appended after the last value, default a newline.
+    flush: whether to forcibly flush the stream.
+-Done
+
+
+
+5. The other file I saved.
+-Done
+
+
+
+6. >>>answer = 6 * 7
+	assigning the variable to the mathematical answer of 6 times 7
+   >>>print(answer)
+	printing the variable 'answer'
+		answer would be assigned the value of 42.
+-Done
+
+
+
+7. Research the history of Python online, answering these questions: 
+	a. Who created it and when?  
+		i. Guido Van Rossum, 1990
+	b. Why was it created?  
+		i. Emphasizes code readability, and its syntax allows for fewer lines needed compared to other programming languages
+	c. What is it named for?  
+		i. Van Rossum was a big fan of Monty Python's Flying Circuis.
+	d. What is it used for today?  
+		i. Largely as a scripting language for web applications.  It has been used a lot in the information security industry.
+-Done
+
+
+
+8. I found "print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)"
+	so I'm guessing there are 5 arguments for print()
+-Done

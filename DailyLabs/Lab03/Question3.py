@@ -1,0 +1,5 @@
+a = input("Enter an int")
+b = input("Enter another int")
+c = input('Enter one more int')
+d = int(a) * 3600 + int(b) * 60 + int(c)
+print(d)

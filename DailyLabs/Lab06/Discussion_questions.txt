@@ -1,0 +1,7 @@
+Discussion question after 1f:
+	What was the impact on the function when it had no parameters?
+		I had to define all the variables inside the function.
+	What was the impact on the function as additional parameters were added?
+		The function just had the code that needed to be executed, none of the defining variables.
+	What other possible parameters might be added to the drawSquare() function that would make the function more versatile?
+		Define EVERYTHING outside the function so you had a minimum amount of stuff inside the function.

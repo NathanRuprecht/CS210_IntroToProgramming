@@ -1,0 +1,19 @@
+x = int(input('Input: "))
+y = 0
+z = 0
+
+while x > 0
+	y = y + (x % 2) * 10 ** z
+	z = z + 1
+	x = x // 2
+print(y)
+
+
+Question 4 is set up so that the user inputs 'x', then the program will
+continue to run as long as x // 2 is greater than 0.  While the program
+loops through, the variables 'y' and 'z' are changing as well.  Once 
+x // 2 is 0, the program exits the while loop and output the variable 'y'.
+
+
+
+I did my 'pen and paper' on the board in class.

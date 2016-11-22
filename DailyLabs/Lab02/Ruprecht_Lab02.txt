@@ -1,0 +1,23 @@
+1.
+	a. 23
+	b. 21
+	c. (30 - 3) ** 2 + (8 // 3) ** 2 * 10 = 769
+	d. 78.5
+	e. Error!  Can't mix two different types: int and str
+-Done!
+
+
+
+2. saved as "stringsets.py"
+-Done!
+
+
+3. saved as "math.py"
+-Done!
+
+
+4. saved as "secs2time.py"
+-Done!
+
+
+5. saved as "polyarea.py"

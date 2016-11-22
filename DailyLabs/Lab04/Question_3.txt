@@ -1,0 +1,11 @@
+3.	Explore the Turtle methods in the Python library documentation.  Answer the following questions in your text document:
+a.	What’s a quick way to return the turtle to its starting position and heading without clearing the screen?  
+i.	home()
+b.	What are the three methods for picking up the pen?  
+i.	penup(), pu(), up()
+c.	Is there a way to explicitly set the x, y coordinate of the turtle?  
+i.	yes. xcor(), ycor()
+d.	How can you make the turtle draw faster?  
+i.	speed()
+e.	How can you input text and numbers from a Turtle graphics window?  
+i.	testinput()
